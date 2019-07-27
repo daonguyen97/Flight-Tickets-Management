@@ -1,0 +1,31 @@
+c:\users\win lap\documents\visual studio 2015\Projects\BANVEMAYBAY\fLogin\bin\Debug\fLogin.exe.config
+c:\users\win lap\documents\visual studio 2015\Projects\BANVEMAYBAY\fLogin\bin\Debug\fLogin.exe
+c:\users\win lap\documents\visual studio 2015\Projects\BANVEMAYBAY\fLogin\bin\Debug\fLogin.pdb
+c:\users\win lap\documents\visual studio 2015\Projects\BANVEMAYBAY\fLogin\obj\Debug\VEMAYBAY.csprojResolveAssemblyReference.cache
+c:\users\win lap\documents\visual studio 2015\Projects\BANVEMAYBAY\fLogin\obj\Debug\fLogin.fLogin.resources
+c:\users\win lap\documents\visual studio 2015\Projects\BANVEMAYBAY\fLogin\obj\Debug\fLogin.Properties.Resources.resources
+c:\users\win lap\documents\visual studio 2015\Projects\BANVEMAYBAY\fLogin\obj\Debug\VEMAYBAY.csproj.GenerateResource.Cache
+c:\users\win lap\documents\visual studio 2015\Projects\BANVEMAYBAY\fLogin\obj\Debug\fLogin.exe
+c:\users\win lap\documents\visual studio 2015\Projects\BANVEMAYBAY\fLogin\obj\Debug\fLogin.pdb
+C:\Users\Win Lap\documents\visual studio 2015\Projects\BANVEMAYBAY\fLogin\obj\Debug\fLogin.fMain.resources
+C:\Users\Win Lap\documents\visual studio 2015\Projects\BANVEMAYBAY\fLogin\obj\Debug\fLogin.fThemChuyenBay.resources
+C:\Users\Win Lap\documents\visual studio 2015\Projects\BANVEMAYBAY\fLogin\obj\Debug\fLogin.fChange.resources
+C:\Users\Win Lap\documents\visual studio 2015\Projects\BANVEMAYBAY\fLogin\obj\Debug\fLogin.fEditSoGhe.resources
+C:\Users\Win Lap\Documents\Visual Studio 2015\Projects\BANVEMAYBAY\fLogin\obj\Debug\fLogin.fTimChuyenBay.resources
+C:\Users\Win Lap\Documents\Visual Studio 2015\Projects\BANVEMAYBAY\fLogin\obj\Debug\fLogin.aboutus.resources
+C:\Users\Tiny Evil\Downloads\Source Code\fLogin\bin\Debug\fLogin.exe.config
+C:\Users\Tiny Evil\Downloads\Source Code\fLogin\bin\Debug\fLogin.exe
+C:\Users\Tiny Evil\Downloads\Source Code\fLogin\bin\Debug\fLogin.pdb
+C:\Users\Tiny Evil\Downloads\Source Code\fLogin\obj\Debug\VEMAYBAY.csprojAssemblyReference.cache
+C:\Users\Tiny Evil\Downloads\Source Code\fLogin\obj\Debug\fLogin.aboutus.resources
+C:\Users\Tiny Evil\Downloads\Source Code\fLogin\obj\Debug\fLogin.fChange.resources
+C:\Users\Tiny Evil\Downloads\Source Code\fLogin\obj\Debug\fLogin.fLogin.resources
+C:\Users\Tiny Evil\Downloads\Source Code\fLogin\obj\Debug\fLogin.fMain.resources
+C:\Users\Tiny Evil\Downloads\Source Code\fLogin\obj\Debug\fLogin.fEditSoGhe.resources
+C:\Users\Tiny Evil\Downloads\Source Code\fLogin\obj\Debug\fLogin.fThemChuyenBay.resources
+C:\Users\Tiny Evil\Downloads\Source Code\fLogin\obj\Debug\fLogin.fTimChuyenBay.resources
+C:\Users\Tiny Evil\Downloads\Source Code\fLogin\obj\Debug\fLogin.Properties.Resources.resources
+C:\Users\Tiny Evil\Downloads\Source Code\fLogin\obj\Debug\VEMAYBAY.csproj.GenerateResource.cache
+C:\Users\Tiny Evil\Downloads\Source Code\fLogin\obj\Debug\VEMAYBAY.csproj.CoreCompileInputs.cache
+C:\Users\Tiny Evil\Downloads\Source Code\fLogin\obj\Debug\fLogin.exe
+C:\Users\Tiny Evil\Downloads\Source Code\fLogin\obj\Debug\fLogin.pdb
